@@ -1,0 +1,26 @@
+{
+    "name": "lyberakis/ckeditor-video-upload",
+    "description": "Add a video upload button on CKEditor",
+    "type": "elgg-plugin",
+    "keywords": [
+        "elgg",
+        "plugin",
+        "ckeditor",
+        "video"
+    ],
+    "homepage": "https://github.com/lyberakis/ckeditor-video-upload",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Vasileios Lyberakis",
+            "email": "vasilis@lyberakis.gr",
+            "role": "Web Developer"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    },        
+    "extra": {
+        "installer-name": "ckeditor_video_upload"
+    }
+}
