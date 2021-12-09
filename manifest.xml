@@ -8,8 +8,8 @@
 	<category>multimedia</category>
     <category>lyberakis</category>
     <description>Add a video upload button on CKEditor - izap_videos and ckeditor_extended plugin required</description>
-    <repository>https://github.com/nlybe/Elgg-CKEditorVideoUpload</repository>
-    <website>https://github.com/nlybe/</website>
+    <repository>https://github.com/lyberakis/ckeditor-video-upload</repository>
+    <website>https://github.com/lyberakis/</website>
     <copyright>(C) Vasileios Lymperakis 2021</copyright>
     <license>GNU General Public License version 2</license>
     <requires>
